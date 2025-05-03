@@ -68,8 +68,7 @@ The device allows the user to choose between two modes. The first mode is loadin
 ## 4. Project Photos & Screenshots
 
 #### Final Project:
-
-
+Your final project, including any casework or interfacing elements that make up the full project (3D prints, screens, buttons, etc)
 
 #### PCBA Top
 ![](2025-05-03-16-59-40.png)
@@ -82,16 +81,59 @@ The standalone PCBA, bottom
 ![](2025-05-03-16-58-44.png)
 
 #### Altium Board Design in 2D
-The Altium Board design in 2D view (screenshot)
+
+All Layers:
+
+![](2025-05-03-17-09-38.png)
+
+
+Top Layer:
+
+![](2025-05-03-17-11-16.png)
+
+
+Middle two layers used for polygon pours -- power and ground planes
+
+Bottom Layer:
+
+![](2025-05-03-17-11-42.png)
 
 #### Altium Board Design in 3D
-The Altium Board design in 3D view (screenshot)
+Top:
+
+![](2025-05-03-17-10-02.png)
+
+Bottom:
+
+![](2025-05-03-17-10-25.png)
+
 
 #### Node Red Dashboard
-Node-RED dashboard (screenshot)
+Home (Mode Selection)
+
+![](2025-05-03-17-06-51.png)
+
+Play Mode
+
+![](2025-05-03-17-07-12.png)
+
+Compose Mode
+
+![](2025-05-03-17-07-32.png)
 
 #### Node Red Backend
-Node-RED backend (screenshot)
+Home (Mode Selection)
+
+![](2025-05-03-17-08-11.png)
+
+Play Mode
+
+![](2025-05-03-17-08-37.png)
+
+Compose Mode
+
+![](2025-05-03-17-09-00.png)
+
 
 #### Block Diagram of System
 
