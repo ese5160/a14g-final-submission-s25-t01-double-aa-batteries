@@ -122,6 +122,8 @@ Compose Mode
 ![](2025-05-03-17-07-32.png)
 
 #### Node Red Backend
+[Node Red JSON Flow](flows.json)
+
 Home (Mode Selection)
 
 ![](2025-05-03-17-08-11.png)
