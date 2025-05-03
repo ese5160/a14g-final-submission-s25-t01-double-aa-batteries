@@ -1,13 +1,15 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/AlBFWSQg)
 # a14g-final-submission
 
-    * Team Number: 
-    * Team Name: 
-    * Team Members: 
-    * Github Repository URL: 
+    * Team Number: 1
+    * Team Name: Double AA Batteries
+    * Team Members: Arushi Mittal and Ashley Tang
+    * Github Repository URL: https://github.com/ese5160/a14g-final-submission-s25-t01-double-aa-batteries.git
     * Description of test hardware: (development boards, sensors, actuators, laptop + OS, etc) 
 
 ## 1. Video Presentation
+
+[Video Link](https://drive.google.com/file/d/10m9M3QqIWd6g0H_bkLOchs7iYOGyJ8y5/view?usp=drive_link)
 
 ## 2. Project Summary
 
