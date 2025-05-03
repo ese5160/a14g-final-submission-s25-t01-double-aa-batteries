@@ -37,7 +37,7 @@ In the future we would love to create a more robust mechanical interface so that
 [Altium Project](https://upenn-eselabs.365.altium.com/designs/972B9F3F-0409-4573-8E98-DE022C91E85B)
 
 ## 3. Hardware & Software Requirements
-## Hardware Requirements Specification (HRS)
+#### Hardware Requirements (HRS)
 
 * HRS 01: The device shall be based on the SAMD21 microcontroller for the main system and the ESP32 microcontroller for the guitar pick interface.
 * HRS 02: The system shall use a LiPo battery (3.7–4.2V) for power, with a boost circuit (5V) and buck circuit (3.3V) for appropriate voltage regulation.
@@ -51,7 +51,7 @@ In the future we would love to create a more robust mechanical interface so that
 * HRS 10: The on-board accelerometer shall sense and transmit the guitar’s orientation, to provide feedback to the user for correcting the orientation of the guitar.
 * HRS 11: The PCB shall include proper shielding to minimize interference between wireless communication and other components.
 
-## Software Requirements Specification (SRS)
+#### Software Requirements Specification (SRS)
 
 The device allows the user to choose between two modes. The first mode is loading specific songs from the online dashboard and prompting the user to play the chord and strum. The second mode is a "free compose" mode where the user can play chords and strum the guitar, and the online dashboard records the chord and strumming pattern, effectively allowing the user to compose their own music.
 
@@ -64,16 +64,42 @@ The device allows the user to choose between two modes. The first mode is loadin
 * SRS 07 -- The device users the accelerometer data to provide feedback to adjust guitar orientation.
 * SRS 08 -- The device prompts the user using vocal cues from the speaker.
 
-## Block Diagram
 
-![](2025-05-03-09-56-05.png)
+## 4. Project Photos & Screenshots
+
+#### Final Project:
+
+
+
+#### PCBA Top
+![](2025-05-03-16-59-40.png)
+
+
+#### PCBA Bottom
+The standalone PCBA, bottom
+
+#### Thermal Camera Images under load
+![](2025-05-03-16-58-44.png)
+
+#### Altium Board Design in 2D
+The Altium Board design in 2D view (screenshot)
+
+#### Altium Board Design in 3D
+The Altium Board design in 3D view (screenshot)
+
+#### Node Red Dashboard
+Node-RED dashboard (screenshot)
+
+#### Node Red Backend
+Node-RED backend (screenshot)
+
+#### Block Diagram of System
+
+![](2025-05-03-16-58-01.png)
 
 ## State Machine Flow Chart
 
 ![](2025-05-03-09-56-14.png)
-
-
-## 4. Project Photos & Screenshots
 
 ## Codebase
 
