@@ -148,6 +148,7 @@ Compose Mode
 ## Codebase
 
 - A link to your final embedded C firmware codebases
+
     [Application Code](https://github.com/ese5160/final-project-t01-double-aa-batteries/tree/main/Application)
 
     [Bootloader Code](https://github.com/ese5160/final-project-t01-double-aa-batteries/tree/main/Bootloader)
