@@ -68,14 +68,48 @@ The device allows the user to choose between two modes. The first mode is loadin
 ## 4. Project Photos & Screenshots
 
 #### Final Project:
-Your final project, including any casework or interfacing elements that make up the full project (3D prints, screens, buttons, etc)
+##### Physical Assmebly
+Top:
+![](2025-05-05-18-23-03.png)
+
+Side:
+![](2025-05-05-18-22-46.png)
+
+Bottom:
+![](2025-05-05-18-22-24.png)
+
+##### Digital Assembly
+
+[Link to Github Page with MCAD Files](MCADFiles)
+
+Exploded View
+![](2025-05-05-18-24-34.png)
+
+Assmebled View:
+![](2025-05-05-18-24-56.png)
+
+Bottom:
+![](2025-05-05-18-25-22.png)
+
+Middle:
+![](2025-05-05-18-25-37.png)
+
+Top:
+![](2025-05-05-18-25-53.png)
+
+Buttons:
+![](2025-05-05-18-26-13.png)
+
+Handle:
+![](2025-05-05-18-26-33.png)
+
 
 #### PCBA Top
 ![](2025-05-03-16-59-40.png)
 
 
 #### PCBA Bottom
-The standalone PCBA, bottom
+![](2025-05-05-18-21-40.png)
 
 #### Thermal Camera Images under load
 ![](2025-05-03-16-58-44.png)
@@ -149,12 +183,12 @@ Compose Mode
 
 - A link to your final embedded C firmware codebases
 
-    [Application Code](https://github.com/ese5160/final-project-t01-double-aa-batteries/tree/main/Application)
+    [Application Code](Application)
 
-    [Bootloader Code](https://github.com/ese5160/final-project-t01-double-aa-batteries/tree/main/Bootloader)
+    [Bootloader Code](Bootloader)
 
 - A link to your Node-RED dashboard code
     [Link](http://172.210.82.230:1880/#flow/2b9c2deef491e8ac)
 
-- Links to any other software required for the functionality of your device
+    [Node-Red JSON flow](Node-Red/flows.json)
 
